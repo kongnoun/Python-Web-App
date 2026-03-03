@@ -8,5 +8,3 @@ Here's a minimal but styled version:
 
 A beginner Django web app — learning the ropes of web development with Python.
 ```
-
-Just paste that over your current README. The badges give it a nice visual pop without overcomplicating it.
